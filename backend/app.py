@@ -7,7 +7,7 @@ import os
 app = Flask(__name__)
 
 # Load model
-MODEL_PATH = os.path.join("ml_model", "preview_model.pkl")
+MODEL_PATH = os.path.join("ml_model", "student.pkl")
 
 with open(MODEL_PATH, "rb") as f:
     model = pickle.load(f)
