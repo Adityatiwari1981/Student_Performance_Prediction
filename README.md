@@ -133,7 +133,7 @@ The model accepts the following student attributes:
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/AshishRastogi123/Student_Performance_Prediction
    cd Student_Performance_Prediction
    ```
 
